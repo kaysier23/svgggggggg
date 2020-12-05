@@ -1,0 +1,47 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: gray;
+  height: 500px;
+  width: 1050px;  
+}
+h1{
+  height: 300px;
+  width: 200px;
+  border: 2px solid black;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+h2{
+    height: 300px;
+  width: 200px;
+  border: 2px solid black;
+  margin-left: 100px;
+}
+h3{
+  height: 300px;
+  width: 200px;
+  border: 2px solid black;
+  margin-left: 350px;
+  margin-top: -650px;
+}
+h4{
+      height: 300px;
+  width: 200px;
+  border: 2px solid black;
+  margin-left: 350px;
+}
+h5{
+  height: 300px;
+  width: 200px;
+  border: 2px solid black;
+  margin-left: 600px;
+  margin-top: -650px;
+}
+h6{
+      height: 300px;
+  width: 200px;
+  border: 2px solid black;
+  margin-left: 600px;
+}
+
