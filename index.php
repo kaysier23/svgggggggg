@@ -258,8 +258,8 @@ style="stroke:red;stroke-width:45" />
         points="35,37.5  37.9,46.1 46.9,46.1 39.7,51.5 42.3,60.1 35,55  27.7,60.1 30.3,51.5 23.1,46.1 32.1,46.1"
         style="fill: #ccffcc; stroke: green; transform: translate(67px, 15px);"/>
       </svg>
-    </h6>
-<header>
+</body>
+    <footer>
      <svg width="400" height="400">
   <rect x="10" y="10" width="180" height="280" style="fill: red;stroke:brown;stroke-width:0;fill-opacity:0.1;stroke-opacity:0.9" />
 
@@ -385,7 +385,5 @@ style="stroke:red;stroke-width:45" />
          <line x1="187" x2="187" y1="60" y2="279" style="stroke:green;stroke-width:5" />
          
          <line x1="14" x2="189" y1="280" y2="280" style="stroke:green; stroke-width:5" />
-</>
-         </header>
-</body>
+</footer>
        </html>
