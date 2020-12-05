@@ -1,4 +1,5 @@
-<body>
+<html>
+  <body>
   <h1>
     <svg height="250" width="250">
   <circle cx="100" cy="120" r="80" fill="purple" />
@@ -387,3 +388,4 @@ style="stroke:red;stroke-width:45" />
 </>
          </header>
 </body>
+       </html>
