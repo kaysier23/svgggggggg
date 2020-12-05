@@ -44,3 +44,12 @@ h6{
   border: 2px solid black;
   margin-left: 600px;
 }
+
+header{
+
+  height: 300px;
+  width: 200px;
+  border: 2px solid black;
+  margin-top: -1010px;
+  margin-left: 250px;
+}
