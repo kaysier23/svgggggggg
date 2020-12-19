@@ -1,11 +1,7 @@
 <html>
       <link rel="stylesheet" type="text/css" href="css/style.css">
 <body>
-           <div class="row cf"> 
-          <div class="six col">
-        <a href="svg.php" class="button2" id="button-8">BACK</a>
-      </div>
-      </div>
+<a href="@keyframes.php"class="button1">EXAMPLE 1</a>
   <h1>
     <svg height="250" width="250">
   <circle cx="100" cy="120" r="80" fill="purple" />
