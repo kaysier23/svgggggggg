@@ -1,6 +1,11 @@
 <html>
       <link rel="stylesheet" type="text/css" href="css/style.css">
 <body>
+       <div class="row cf"> 
+          <div class="six col">
+        <a href="index.php" class="button" id="button-8">HOME</a>
+      </div>
+      </div>
   <h1>
     <svg height="250" width="250">
   <circle cx="100" cy="120" r="80" fill="purple" />
