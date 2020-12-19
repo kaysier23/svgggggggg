@@ -53,7 +53,7 @@ header{
   margin-top: -1010px;
   margin-left: 250px;
 }
-.button1 {
+button1 {
   background-color: #4CAF50;
   border: none;
   color: white;
@@ -65,7 +65,7 @@ header{
   margin-left: 500px;
   cursor: pointer;
 }
-.button1 {
+button1 {
   background-color: #4CAF50;
   border: none;
   color: white;
