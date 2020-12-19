@@ -1,9 +1,9 @@
 <html>
       <link rel="stylesheet" type="text/css" href="css/style.css">
 <body>
-       <div class="row cf"> 
+           <div class="row cf"> 
           <div class="six col">
-        <a href="index.php" class="button" id="button-8">HOME</a>
+        <a href="svg.php" class="button2" id="button-8">BACK</a>
       </div>
       </div>
   <h1>
