@@ -53,3 +53,23 @@ header{
   margin-top: -1010px;
   margin-left: 250px;
 }
+
+.button{
+  display: inline-block;
+  padding: 20px 50px;
+  margin: 20px 0;
+  position: relative;
+  color: #ecf0f1;
+}
+#button-8{
+  background-color: #34495e;
+  overflow: hidden;
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+#button-8:hover{
+  -webkit-box-shadow: 0px 0px 10px #34495e;
+  box-shadow: 0px 0px 10px #34495e;
+}
